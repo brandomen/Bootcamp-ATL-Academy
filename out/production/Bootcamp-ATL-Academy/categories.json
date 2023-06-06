@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Cocina",
+    "description": "Preguntas relacionadas comidas típicas."
+  },
+  {
+    "category": "Deportes",
+    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+  },
+  {
+    "category": "Ciudades",
+    "description": "Preguntas relacionadas con ciudades de diferentes partes del mundo."
+  },
+  {
+    "category": "Paises",
+    "description": "Preguntas relacionadas con paises de cada continente."
+  },
+  {
+    "category": "Raza de perros",
+    "description": "Preguntas relacionadas con razas de perros."
+  },
+  {
+    "category": "Ciencia",
+    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  }
+]
