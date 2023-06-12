@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Ejercicio_5 {
     public static void main(String[] args){
 
+        /*
         //Ingrese un número aleatorio
         Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese un numero: ");
@@ -20,7 +21,13 @@ public class Ejercicio_5 {
             System.out.println("¡ERROR! El número no era: " + numero);
             System.out.println("El numero es: " + number);
         }
+        */
+        System.out.println(holaMundo());
+        
 
+    }
 
+    private static String holaMundo() {
+       return "Hola Brando";
     }
 }
