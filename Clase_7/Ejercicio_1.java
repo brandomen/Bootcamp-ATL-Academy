@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Ejercicio_1 {
     public static void main(String[] args) {
+        Scanner palabra = new Scanner(System.in);
         int [] numeros = new int[5];
         for (int i = 0; i < numeros.length; i++) {
-            Scanner palabra = new Scanner(System.in);
             System.out.println("Introduce el número: ");
             int numero = palabra.nextInt();
             numeros[i] = numero;
